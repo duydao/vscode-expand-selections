@@ -1,4 +1,4 @@
-# vscode - expand selections to word
+# vscode - Expand selections
 
 ## Changelog:
 

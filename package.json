@@ -1,7 +1,7 @@
 {
-    "name": "vscode-cmd-d",
-    "displayName": "Expand word",
-    "description": "Expand selections to word",
+    "name": "vscode-expand-selections",
+    "displayName": "Expand selections",
+    "description": "Expands all selections to the current word",
     "version": "0.1.0",
     "publisher": "duydao",
     "engines": {
