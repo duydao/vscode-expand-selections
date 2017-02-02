@@ -10,10 +10,12 @@
 
 ## Installation
 
+```bash
 npm install -g vsce
 npm install
 vsce package
 code --install-extension vscode-cmd-d-0.1.0.vsix (or vscode -> extensions -> install from VSIX)
+```
 
 ## TODO
 
